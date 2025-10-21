@@ -1,1 +1,0 @@
-set all images width and height ratio to 1:1
